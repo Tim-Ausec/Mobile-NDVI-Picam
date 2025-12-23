@@ -1,0 +1,9 @@
+- tiff data extraction (done)
+- gps module
+- writing to external SD card
+- camera mounts
+- invoke shutdown after X minutes
+- take pictures of every X intervals
+- get script to run on boot
+- get this repository on the esap one
+- combine the scripts, run without popups
